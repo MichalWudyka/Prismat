@@ -4,13 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Logowanie</title>
+    <title>Home</title>
 </head>
 <body>
-    <form action="/ServletLogin">
-       Username: <input type="username" name="username" placeholder="Podaj nazwe">
-       Password: <input type="password" name="password" placeholder="Podaj haslo">
-        <input type="submit" value="Zaloguj">
-    </form>
+    Welcome ...
 </body>
 </html>
