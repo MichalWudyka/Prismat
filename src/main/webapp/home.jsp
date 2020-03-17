@@ -7,6 +7,6 @@
     <title>Home</title>
 </head>
 <body>
-    Welcome ...
+    Welcome ... in the HOUSE!
 </body>
 </html>
